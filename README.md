@@ -1,0 +1,1 @@
+These are pre-built binaries of the [Outcomes Import Tool (OIT)](https://github.com/FreedomBen/outcomes-import-tool).  Please see [the source repo](https://github.com/FreedomBen/outcomes-import-tool) for more information or run the binary with the --help flag.
